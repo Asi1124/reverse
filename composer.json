@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "classmap": [
+            "reverse/"
+        ]
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "10"
+    }
+}
+
